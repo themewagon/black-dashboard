@@ -1,4 +1,4 @@
-# [Black Dashboard](https://demos.creative-tim.com/black-dashboard/examples/dashboard.html) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/intent/tweet?text=Black%20Dashboard%20by%20Creative%20Tim&url=https%3A%2F%2Fdemos.creative-tim.com%2Fblack-dashboard%2Fexamples%2Fdashboard.html&via=CreativeTim)
+# [Black Dashboard](https://demos.creative-tim.com/black-dashboard/examples/index.html) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/intent/tweet?text=Black%20Dashboard%20by%20Creative%20Tim&url=https%3A%2F%2Fdemos.creative-tim.com%2Fblack-dashboard%2Fexamples%2Findex.html&via=CreativeTim)
 
 
  ![version](https://img.shields.io/badge/version-1.0.0-blue.svg)  ![license](https://img.shields.io/badge/license-MIT-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/black-dashboard/issues.svg?maxAge=2592000)](https://github.com/creativetimofficial/black-dashboard/issues/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/black-dashboard/issues.svg?maxAge=2592000)](https://github.com/creativetimofficial/black-dashboard/issues/issues?q=is%3Aissue+is%3Aclosed) [![Join the chat at https://gitter.im/NIT-dgp/General](https://badges.gitter.im/NIT-dgp/General.svg)](https://gitter.im/creative-tim-general/Lobby) [![Chat](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://discord.gg/E4aHAQy)
@@ -35,13 +35,13 @@ We are very excited to share this dashboard with you and we look forward to hear
 
 ## Demo
 
-- [Start page](https://demos.creative-tim.com/black-dashboard/examples/dashboard.html)
-- [User profile page](https://demos.creative-tim.com/black-dashboard/examples/user.html)
-- [Tables page ](https://demos.creative-tim.com/black-dashboard/examples/tables.html)
-- [Maps Page](https://demos.creative-tim.com/black-dashboard/examples/map.html)
-- [Notifications page](https://demos.creative-tim.com/black-dashboard/examples/notifications.html)
+- [Start page](https://demos.creative-tim.com/black-dashboard/index.html)
+- [User profile page](https://demos.creative-tim.com/black-dashboard/user.html)
+- [Tables page ](https://demos.creative-tim.com/black-dashboard/tables.html)
+- [Maps Page](https://demos.creative-tim.com/black-dashboard/map.html)
+- [Notifications page](https://demos.creative-tim.com/black-dashboard/notifications.html)
 
-[View More](https://demos.creative-tim.com/black-dashboard/examples/dashboard.html).
+[View More](https://demos.creative-tim.com/black-dashboard/index.html).
 
 
 ## Quick start
@@ -90,7 +90,7 @@ black-dashboard/
 ├── docs
 │   └── documentation.html
 ├── examples
-│   ├── dashboard.html
+│   ├── index.html
 │   ├── icons.html
 │   ├── map.html
 │   ├── notifications.html
